@@ -4,7 +4,7 @@
         width: 100%;
     }
     .panel{
-        height: 690px;
+        height: 586px;
         width: 90%;
     }
     .elem{
@@ -22,7 +22,8 @@
     .tpanel{
         padding: 0px 1%;
         margin: 0%;
-        margin-top: 5%;              
+        margin-top: 0%;
+                     
     }
     .bpanel{
         overflow: hidden;
@@ -33,8 +34,9 @@
         margin-bottom: 0%;
     }
     .bubble{
-        height: 23px;     
-        width: 23px;
+        height: 17px;     
+        width: 17px;
+        font-size: 10px;
     }
     
 }
