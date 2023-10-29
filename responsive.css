@@ -1,0 +1,40 @@
+@media (max-width: 600px) {
+    .ground{
+        height: 100%;
+        width: 100%;
+    }
+    .panel{
+        height: 800px;
+        width: 90%;
+    }
+    .elem{
+        flex-wrap: wrap;
+        margin: 0px;
+        padding: 5px;
+    }
+    .box{
+        height: 10px;
+        width: 20px;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+    }
+    .tpanel{
+        padding: 0px 1%;
+        margin: 0%;
+        margin-top: 0%;              
+    }
+    .bpanel{
+        overflow: hidden;
+        margin-bottom: 5px;
+    }
+    .ground{
+        margin-top: 0;
+        margin-bottom: 0%;
+    }
+    .bubble{
+        height: 23px;     
+        width: 23px;
+    }
+    
+}
