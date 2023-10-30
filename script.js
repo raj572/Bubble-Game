@@ -1,4 +1,4 @@
-var timer=20;
+var timer=7;
 var score=0;
 var hitrn=0;
 var targetScore = 100;
@@ -63,7 +63,7 @@ function runTimer() {
 }
 
 function restartGame() {
-    timer = 6;
+    timer = 7;
     score = 0;
     targetScore = 100;
     document.querySelector("#timerval").textContent = timer;
